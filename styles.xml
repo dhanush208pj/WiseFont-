@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:editTextBackground">@drawable/rn_edit_text_material</item>
+        <item name="android:windowBackground">#1f3a34</item>
+        <item name="android:statusBarColor">#1f3a34</item>
+        <item name="android:navigationBarColor">#1f3a34</item>
+    </style>
+</resources>
